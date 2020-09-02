@@ -1,4 +1,4 @@
-<img src='./assets/me.jpg' alt='me' width='300' height='250'>
+![ME](assets/me.jpg)
 
 <!-- # Hi there 👋 -->
 
