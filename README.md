@@ -1,4 +1,4 @@
-![ME](assets/me.jpg)
+<img src="assets/me.jpg" />
 
 <!-- # Hi there 👋 -->
 
