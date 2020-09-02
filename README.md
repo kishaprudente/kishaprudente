@@ -1,6 +1,4 @@
-<img src='./assets/me.jpg' alt='me' width='300' height='250'>
-
-<!-- # Hi there 👋 -->
+# Kisha Prudente - @kishaprudente 👋🏻
 
 <!--
 **kishaprudente/kishaprudente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
