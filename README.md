@@ -1,3 +1,5 @@
+## Hi, I'm Kisha Prudente 👋🏻👩🏻‍💻
+
 <img src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer">
 
 <!--
