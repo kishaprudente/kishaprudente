@@ -4,7 +4,7 @@
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="400">
 </p>
 
-<img align='right' src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/Typing.gif" width="350">
+<img align='right' src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/Typing.gif" width="300">
 
 ### <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 ```javascript
