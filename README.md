@@ -1,4 +1,4 @@
-## Hi, I'm Kisha Prudente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">👩🏻‍💻
+## Hi there, I'm Kisha Prudente 👩🏻‍💻 <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30">
 
 <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
