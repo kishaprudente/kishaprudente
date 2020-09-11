@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there, I'm Kisha Prudente <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30"> 👩🏻‍💻</h2>
+<h2 align="center">Hi there, I'm Kisha Prudente <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30"></h2>
 <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
 </p>
