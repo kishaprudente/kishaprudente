@@ -1,13 +1,16 @@
-## Hi, I'm Kisha Prudente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👩🏻‍💻
+## Hi, I'm Kisha Prudente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">👩🏻‍💻
 
-<img src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer">
+<img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="450">
 
+<img align='right' src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/Typing.gif" width="250">
+
+### <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 ```javascript
 const kisha = {
   hobbies: ['eat', 'code', 'sleep', 'repeat'],
   technologies: {
     languages: [JavaScript(ES6+), HTML5, CSS3, Java, PHP],
-    frontend: [React.js, React Hooks, MobX, jQuery, Handlebars.js, Bootstrap, Material UI],
+    frontend: [React.js, React Hooks, MobX, jQuery, Bootstrap, Material UI],
     backend: [Node.js, MongoDB, MySQL, Bcrypt, JWT, PassportJS],
     testing: [Jest, Cucumber],
     software: [Heroku, Figma, Trello, Git, NPM, Yarn, Babel, Webpack, CI/CD],
@@ -21,7 +24,8 @@ const kisha = {
     'Object Oriented Programming',
     'Test Driven Development',
   ],
-  funFact: 'Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Martin Golding'
+  funFact: `Always code as if the guy who ends up maintaining your code will 
+    be a violent psychopath who knows where you live. -Martin Golding`
 };
 ```
 
@@ -39,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+
