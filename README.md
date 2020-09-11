@@ -1,12 +1,15 @@
 ## Hi, I'm Kisha Prudente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">👩🏻‍💻
 
-<img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="450">
+<p align="center">
+  <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="400">
+</p>
 
 <img align='right' src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/Typing.gif" width="250">
 
 ### <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 ```javascript
 const kisha = {
+  likes: 'everything floral',
   hobbies: ['eat', 'code', 'sleep', 'repeat'],
   technologies: {
     languages: [JavaScript(ES6+), HTML5, CSS3, Java, PHP],
@@ -28,6 +31,12 @@ const kisha = {
     be a violent psychopath who knows where you live. -Martin Golding`
 };
 ```
+
+ ### 📫 How to reach me:
+  - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
+ - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kishaprudente" height="20" width="20" />: <a href="https://linkedin.com/in/kishaprudente" target="_blank">@kishaprudente</a>
+ - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />: <a href="https://instagram.com/in/kishamalzd" target="_blank">@kishamalzd</a>
+
 
 <!--
 **kishaprudente/kishaprudente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
