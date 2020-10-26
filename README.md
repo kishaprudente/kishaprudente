@@ -30,7 +30,7 @@ const kisha = {
     'Object Oriented Programming',
     'Test Driven Development',
   ],
-  currentlyLearning: [ 'Next.js', 'Gatsby.js', 'GraphQL' ]
+  currentlyLearning: [ 'GraphQL', 'Flutter', 'Gatsby.js', 'Next.js' ]
   funFact: `Always code as if the guy who ends up maintaining your code will 
     be a violent psychopath who knows where you live. -Martin Golding`
 };
