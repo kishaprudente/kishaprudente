@@ -31,8 +31,7 @@ const kisha = {
     'Test Driven Development',
   ],
   currentlyLearning: [ 'GraphQL', 'Flutter', 'Gatsby.js', 'Next.js' ]
-  funFact: `Always code as if the guy who ends up maintaining your code will 
-    be a violent psychopath who knows where you live. -Martin Golding`
+  funFact: `Why do developers prefer dark mode? Because light attracks bugs.`
 };
 ```
 
@@ -55,5 +54,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+`Always code as if the guy who ends up maintaining your code will 
+    be a violent psychopath who knows where you live. -Martin Golding`
   -->
 
