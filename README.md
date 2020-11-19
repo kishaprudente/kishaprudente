@@ -30,7 +30,7 @@ const kisha = {
     'Object Oriented Programming',
     'Test Driven Development',
   ],
-  currentlyLearning: [ 'GraphQL', 'Flutter', 'Gatsby.js', 'Next.js' ]
+  currentlyLearning: [ 'GraphQL', 'Flutter', 'Gatsby.js', 'Next.js' ],
   funFact: `Why do developers prefer dark mode? Because light attracks bugs.`
 };
 ```
