@@ -15,11 +15,11 @@ const kisha = {
   likes: 'everything floral',
   hobbies: ['eat', 'code', 'sleep', 'repeat'],
   technologies: {
-    languages: [JavaScript(ES6+), HTML5, CSS3, Java, PHP],
-    frontend: [React.js, React Hooks, MobX, jQuery, Bootstrap, Material UI],
-    backend: [Node.js, MongoDB, MySQL, Bcrypt, JWT, PassportJS],
-    testing: [Jest, Cucumber],
-    software: [Heroku, Figma, Trello, Git, NPM, Yarn, Babel, Webpack, CI/CD],
+    languages: ['JavaScript(ES6+)', 'Typescript', 'Dart' 'Java', 'PHP'],
+    frontend: ['React.js', 'Angular', 'React Hooks', 'MobX', 'jQuery', 'HTML5', 'CSS3'],
+    backend: ['Node.js', 'GraphQL', 'MongoDB', 'MySQL'],
+    testing: ['Jest', 'Cucumber'],
+    other: ['Flutter', 'Heroku', 'Figma', 'Trello', 'Git', 'Babel', 'Webpack'],
     os: ['Windows', 'Linux', 'Mac'],
   },
   developmentPractices: [
@@ -30,7 +30,7 @@ const kisha = {
     'Object Oriented Programming',
     'Test Driven Development',
   ],
-  currentlyLearning: [ 'GraphQL', 'Flutter', 'Gatsby.js', 'Next.js' ],
+  currentlyLearning: [ 'Gatsby.js', 'Next.js' ],
   funFact: `Why do developers prefer dark mode? Because light attracks bugs.`
 };
 ```
