@@ -3,6 +3,9 @@
   Hi there, I'm Kisha Prudente <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30">
 </h2>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishaprudente" alt="kishaprudente"/></p>
+ <p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kishaprudente&theme=dracula" height="70">
+</p>
 <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
 </p>
@@ -44,9 +47,9 @@ const kisha = {
   <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> You can reach me @:
 </h3>
 <p align="center">
-  - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
- - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kishaprudente" height="20" width="20" />: <a href="https://linkedin.com/in/kishalozada" target="_blank">@kishalozada</a>
- - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />: <a href="https://instagram.com/kishamalzd" target="_blank">@kishamalzd</a>
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kishaprudente" height="20" width="20" />: <a href="https://linkedin.com/in/kishalozada" target="_blank">@kishalozada</a>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />: <a href="https://instagram.com/kishamalzd" target="_blank">@kishamalzd</a>
 </p>
 
 <!--
