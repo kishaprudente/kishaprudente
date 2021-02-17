@@ -11,6 +11,7 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 </h3>
+
 ```javascript
 const kisha = {
   likes: 'everything floral',
