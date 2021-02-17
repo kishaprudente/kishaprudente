@@ -4,7 +4,7 @@
 </h2>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishaprudente" alt="kishaprudente"/></p>
  <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kishaprudente&theme=dracula" height="70">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kishaprudente" height="70">
 </p>
 <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
