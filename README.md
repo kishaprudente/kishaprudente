@@ -8,7 +8,9 @@
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
 </p>
 
-### <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
+<h3 align="center">
+  <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
+</h3>
 ```javascript
 const kisha = {
   likes: 'everything floral',
@@ -42,7 +44,7 @@ const kisha = {
 </p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> You can reach me @:
+  <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> You can reach me @
 </h3>
 <p align="center">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
