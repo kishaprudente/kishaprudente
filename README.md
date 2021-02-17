@@ -33,9 +33,12 @@ const kisha = {
 };
 ```
 
-### <img align="center" src="https://media.giphy.com/media/0pdCSfitokQguvppgd/giphy.gif" width="30"> Most Used Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaprudente&layout=compact&hide_title=true&langs_count=10"/>
-
+<h3 align="center">
+  <img align="center" src="https://media.giphy.com/media/0pdCSfitokQguvppgd/giphy.gif" width="30"> Most Used Languages
+<h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaprudente&layout=compact&hide_title=true&langs_count=10"/>
+</p>
 
  ### <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> How to reach me:
   - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
