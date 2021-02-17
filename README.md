@@ -32,7 +32,7 @@ const kisha = {
     'Test Driven Development',
   ],
   currentlyLearning: [ 'Gatsby.js', 'Next.js' ],
-  funFact: `Why do developers prefer dark mode? Because light attracks bugs.`
+  funFact: `Why do developers prefer dark mode? Because light attracts bugs.`
 };
 ```
 
