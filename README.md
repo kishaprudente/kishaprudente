@@ -40,11 +40,14 @@ const kisha = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaprudente&layout=compact&hide_title=true&langs_count=10"/>
 </p>
 
- ### <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> How to reach me:
+<h3 align="center">
+  <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> You can reach me @:
+</h3>
+<p align="center">
   - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
  - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kishaprudente" height="20" width="20" />: <a href="https://linkedin.com/in/kishalozada" target="_blank">@kishalozada</a>
  - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />: <a href="https://instagram.com/kishamalzd" target="_blank">@kishamalzd</a>
-
+</p>
 
 <!--
 **kishaprudente/kishaprudente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
