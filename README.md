@@ -33,7 +33,7 @@ const kisha = {
 };
 ```
 
-### <img align="center" src="https://media.giphy.com/media/DkNqNlR5iyuBqstqBO/giphy.gif" width="30"> Most Used Languages
+### <img align="center" src="https://media.giphy.com/media/0pdCSfitokQguvppgd/giphy.gif" width="30"> Most Used Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaprudente&layout=compact&hide_title=true&langs_count=10"/>
 
 
