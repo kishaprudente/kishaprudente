@@ -2,12 +2,10 @@
 <h2 align="center">
   Hi there, I'm Kisha Prudente <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30">
 </h2>
- <p align="center"> <img src=https://komarev.com/ghpvc/?username=kishaprudente alt=kishaprudente/></p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishaprudente" alt="kishaprudente"/></p>
 <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
 </p>
-
-<img align='right' src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/Typing.gif" width="300">
 
 ### <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 ```javascript
@@ -34,6 +32,10 @@ const kisha = {
   funFact: `Why do developers prefer dark mode? Because light attracks bugs.`
 };
 ```
+
+### <img align="center" src="https://media.giphy.com/media/DkNqNlR5iyuBqstqBO/giphy.gif" width="30"> Most Used Languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaprudente&layout=compact&hide_title=true&langs_count=10"/>
+
 
  ### <img src="https://media.giphy.com/media/QaMRLY2nyVSUu9rZRw/giphy.gif" width="30"> How to reach me:
   - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kmalozada" height="20" width="20" />: <a href="mailto: kmalozada@gmail.com" target="_blank">kmalozada@gmail.com</a>
