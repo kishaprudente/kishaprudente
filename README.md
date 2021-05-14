@@ -22,7 +22,6 @@ const kisha = {
     backend: ['Node.js', 'GraphQL', 'MongoDB', 'MySQL'],
     testing: ['Jest', 'Cucumber'],
     other: ['Flutter', 'Heroku', 'Figma', 'Trello', 'Git', 'Babel', 'Webpack'],
-    os: ['Windows', 'Linux', 'Mac'],
   },
   developmentPractices: [
     'Agile Methodologies',
