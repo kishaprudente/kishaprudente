@@ -4,9 +4,9 @@
 </h2>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishaprudente" alt="kishaprudente"/></p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github.com/kishaprudente/kishaprudente/blob/master/assets/banner.png" alt="banner that says Kisha Prudente - software engineer" height="350">
-</p>
+</p> -->
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
