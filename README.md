@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Hi there, I'm Kisha Prudente <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30">
+  Hi there, I'm Kisha Lozada <img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="30">
 </h2>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishaprudente" alt="kishaprudente"/></p>
 
