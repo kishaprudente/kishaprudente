@@ -12,30 +12,6 @@
   <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
 </h3>
 
-```javascript
-const kisha = {
-  likes: 'everything floral',
-  hobbies: ['eat', 'code', 'sleep', 'repeat'],
-  technologies: {
-    languages: ['JavaScript(ES6+)', 'Typescript', 'Dart' 'Java', 'PHP'],
-    frontend: ['React.js', 'Angular', 'React Hooks', 'MobX', 'jQuery', 'HTML5', 'CSS3'],
-    backend: ['Node.js', 'GraphQL', 'MongoDB', 'MySQL'],
-    testing: ['Jest', 'Cucumber'],
-    other: ['Flutter', 'Heroku', 'Figma', 'Trello', 'Git', 'Babel', 'Webpack'],
-  },
-  developmentPractices: [
-    'Agile Methodologies',
-    'SCRUM',
-    'Web App Architecture (MVC)',
-    'REST API design',
-    'Object Oriented Programming',
-    'Test Driven Development',
-  ],
-  currentlyLearning: [ 'Gatsby.js', 'Next.js' ],
-  funFact: `Why do developers prefer dark mode? Because light attracts bugs.`
-};
-```
-
 <h3 align="center">
   <img align="center" src="https://media.giphy.com/media/0pdCSfitokQguvppgd/giphy.gif" width="30"> Most Used Languages
 <h3>
