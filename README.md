@@ -9,10 +9,6 @@
 </p> -->
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/U4qQKbaM2evCBkfyX0/giphy.gif" width="30"> A little more about me...  
-</h3>
-
-<h3 align="center">
   <img align="center" src="https://media.giphy.com/media/0pdCSfitokQguvppgd/giphy.gif" width="30"> Most Used Languages
 <h3>
 <p align="center">
